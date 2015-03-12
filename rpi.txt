@@ -1,0 +1,353 @@
+
+RANK	PREVIOUS	SCHOOL	CONFERENCE	RECORD	ROAD	NEUTRAL	HOME	NON-DI
+1	1	Kentucky	Southeastern	31-0	10-0	2-0	19-0	0-0
+2	2	Kansas	Big 12	24-7	5-6	3-1	16-0	0-0
+3	3	Villanova	Big East	29-2	9-2	4-0	16-0	0-0
+4	4	Wisconsin	Big Ten	28-3	10-2	3-0	15-1	0-0
+5	5	Duke	Atlantic Coast	28-3	9-2	4-0	15-1	0-0
+6	6	Virginia	Atlantic Coast	28-2	11-1	2-0	15-1	0-0
+7	7	Arizona	Pac-12	28-3	8-3	3-0	17-0	0-0
+8	8	Gonzaga	West Coast	32-2	11-1	5-0	15-1	1-0
+9	10	Baylor	Big 12	23-8	6-5	1-1	15-2	1-0
+10	9	Maryland	Big Ten	26-5	6-4	2-0	18-1	0-0
+11	11	Iowa St.	Big 12	22-8	5-5	2-2	15-1	0-0
+12	12	UNI	Missouri Valley	30-3	9-3	6-0	15-0	0-0
+13	13	North Carolina	Atlantic Coast	22-10	8-4	4-1	10-5	0-0
+14	16	SMU	AAC	24-6	8-4	0-0	15-2	1-0
+15	15	Utah	Pac-12	23-7	6-6	1-0	15-1	1-0
+16	14	Oklahoma	Big 12	21-9	5-6	2-2	14-1	0-0
+17	17	Louisville	Atlantic Coast	24-7	7-3	2-0	15-4	0-0
+18	18	Wichita St.	Missouri Valley	28-4	10-2	3-2	14-0	1-0
+19	19	Georgetown	Big East	20-9	5-4	2-2	13-3	0-0
+20	21	VCU	Atlantic 10	22-9	8-4	2-1	12-4	0-0
+21	20	West Virginia	Big 12	23-8	5-5	6-0	12-3	0-0
+22	22	Arkansas	Southeastern	24-7	7-5	0-0	17-2	0-0
+23	23	Providence	Big East	21-10	5-6	3-0	13-4	0-0
+24	24	Butler	Big East	22-9	7-4	2-2	13-3	0-0
+25	25	Notre Dame	Atlantic Coast	26-5	7-2	2-1	17-2	0-0
+26	26	Colorado St.	Mountain West	26-5	8-4	3-0	14-1	1-0
+27	27	Michigan St.	Big Ten	21-10	7-4	2-2	12-4	0-0
+28	28	San Diego St.	Mountain West	24-7	6-5	2-1	15-1	1-0
+29	29	Oregon	Pac-12	23-8	5-4	1-2	16-2	1-0
+30	30	Buffalo	Mid-American	21-9	10-7	0-0	11-2	0-0
+31	31	Davidson	Atlantic 10	23-6	9-4	0-0	13-2	1-0
+32	32	Temple	AAC	22-9	7-5	1-2	14-2	0-0
+33	33	Dayton	Atlantic 10	23-7	5-6	2-1	16-0	0-0
+34	34	Cincinnati	AAC	22-9	6-5	1-1	15-3	0-0
+35	35	St. John's (NY)	Big East	21-10	4-6	1-0	15-4	1-0
+36	36	BYU	West Coast	25-9	8-3	3-3	12-3	2-0
+37	38	Iowa	Big Ten	21-10	7-3	0-3	14-4	0-0
+38	37	Old Dominion	Conference USA	24-6	5-5	2-1	17-0	0-0
+39	40	Boise St.	Mountain West	24-7	8-5	3-1	11-1	2-0
+40	39	Xavier	Big East	19-12	5-7	1-2	13-3	0-0
+41	41	Georgia	Southeastern	20-10	8-4	0-2	12-4	0-0
+42	42	Texas	Big 12	20-12	4-7	3-0	13-5	0-0
+43	45	North Carolina St.	Atlantic Coast	20-12	5-5	1-1	14-6	0-0
+44	43	Ohio St.	Big Ten	22-9	4-6	0-1	18-2	0-0
+45	44	Stephen F. Austin	Southland	27-4	10-3	2-0	12-1	3-0
+46	47	Tulsa	AAC	21-9	8-4	1-1	12-3	0-1
+47	46	Oklahoma St.	Big 12	18-12	3-8	3-0	11-4	1-0
+48	48	LSU	Southeastern	22-9	8-3	1-2	13-4	0-0
+49	49	Wofford	Southern	28-6	10-5	5-0	11-1	2-0
+50	50	Ole Miss	Southeastern	20-11	8-4	3-0	9-7	0-0
+51	51	UCLA	Pac-12	19-12	2-8	1-3	16-1	0-0
+52	52	Louisiana Tech	Conference USA	24-7	8-7	0-0	15-0	1-0
+53	53	Valparaiso	Horizon	28-5	8-4	5-0	12-1	3-0
+54	54	Iona	Metro Atlantic	26-8	11-7	1-1	14-0	0-0
+55	58	Stanford	Pac-12	19-12	4-8	2-1	13-3	0-0
+56	56	Richmond	Atlantic 10	19-12	4-9	1-0	14-3	0-0
+57	55	Texas A&M	Southeastern	20-10	5-6	2-1	13-3	0-0
+58	57	Purdue	Big Ten	20-11	4-6	2-2	14-3	0-0
+59	59	Green Bay	Horizon	24-8	6-6	5-1	11-1	2-0
+60	60	Indiana	Big Ten	19-12	3-6	1-2	15-4	0-0
+61	61	Illinois	Big Ten	19-12	2-8	3-2	14-2	0-0
+62	62	Miami (FL)	Atlantic Coast	21-11	7-4	4-1	10-6	0-0
+63	64	UC Davis	Big West	24-5	10-5	0-0	12-0	2-0
+64	65	Yale	Ivy	22-9	11-6	2-0	7-3	2-0
+65	63	Harvard	Ivy	21-7	9-4	0-1	10-2	2-0
+66	67	Murray St.	OVC	27-5	11-1	2-3	12-1	2-0
+67	66	Illinois St.	Missouri Valley	21-12	7-5	4-2	9-5	1-0
+68	69	Syracuse	Atlantic Coast	18-13	4-7	1-1	13-5	0-0
+69	71	Rhode Island	Atlantic 10	21-8	7-4	1-2	12-2	1-0
+70	70	Georgia St.	Sun Belt	22-9	8-8	2-0	11-1	1-0
+71	72	St. Mary's (CA)	West Coast	21-9	7-4	0-1	13-4	1-0
+72	68	Pittsburgh	Atlantic Coast	19-14	2-9	2-2	14-3	1-0
+73	73	UTEP	Conference USA	21-9	5-6	2-1	14-2	0-0
+74	74	Massachusetts	Atlantic 10	17-14	5-8	2-1	10-5	0-0
+75	75	Central Mich.	Mid-American	22-7	6-6	0-0	13-1	3-0
+76	76	Florida	Southeastern	15-16	2-9	2-2	11-5	0-0
+77	77	Toledo	Mid-American	19-12	9-7	0-0	10-5	0-0
+78	78	Alabama	Southeastern	18-13	4-7	1-1	12-5	1-0
+79	79	UConn	AAC	17-13	4-7	2-2	11-4	0-0
+80	80	George Washington	Atlantic 10	20-11	4-9	4-0	12-2	0-0
+81	81	Memphis	AAC	18-13	5-5	1-2	12-6	0-0
+82	83	UC Santa Barbara	Big West	18-12	4-9	2-1	10-2	2-0
+83	84	Kent St.	Mid-American	21-10	8-6	1-0	11-4	1-0
+84	86	Northeastern	Colonial	23-11	8-7	6-1	9-3	0-0
+85	87	Michigan	Big Ten	15-15	2-8	1-1	11-6	1-0
+86	92	Sam Houston St.	Southland	24-7	8-5	1-1	11-1	4-0
+87	89	Eastern Wash.	Big Sky	23-8	10-6	0-0	10-2	3-0
+88	90	Vanderbilt	Southeastern	19-12	4-7	1-1	13-4	1-0
+89	91	High Point	Big South	22-9	9-6	2-1	8-2	3-0
+90	95	Minnesota	Big Ten	18-14	3-8	2-1	12-5	1-0
+91	94	William & Mary	Colonial	20-12	6-9	2-1	10-2	2-0
+92	93	South Dakota St.	Summit	23-10	6-8	4-2	11-0	2-0
+93	82	Seton Hall	Big East	16-15	3-9	3-1	10-5	0-0
+94	97	North Dakota St.	Summit	23-9	5-8	4-1	12-0	2-0
+95	88	Kansas St.	Big 12	15-17	1-10	1-3	13-4	0-0
+96	98	South Carolina	Southeastern	16-15	3-7	3-2	9-6	1-0
+97	85	Arizona St.	Pac-12	17-15	2-9	0-3	15-3	0-0
+98	99	Wyoming	Mountain West	22-9	5-7	0-0	15-2	2-0
+99	103	California	Pac-12	18-14	5-6	2-1	11-7	0-0
+100	104	Western Ky.	Conference USA	20-11	5-8	2-0	11-3	2-0
+101	105	La Salle	Atlantic 10	16-15	6-7	0-3	10-5	0-0
+102	101	Long Beach St.	Big West	16-16	4-13	2-1	8-2	2-0
+103	96	Clemson	Atlantic Coast	16-15	3-7	2-2	11-6	0-0
+104	106	Tennessee	Southeastern	15-15	5-5	1-3	9-7	0-0
+105	100	UNLV	Mountain West	18-14	3-8	2-2	12-4	1-0
+106	108	Belmont	OVC	22-10	7-8	3-0	11-2	1-0
+107	107	Stony Brook	America East	23-10	9-8	1-0	11-2	2-0
+108	110	Albany (NY)	America East	23-8	12-5	0-0	11-3	0-0
+109	102	Bowling Green	Mid-American	20-11	9-5	0-1	11-4	0-1
+110	117	Florida St.	Atlantic Coast	17-15	3-7	2-2	12-6	0-0
+111	121	Colorado	Pac-12	15-16	2-10	2-1	11-5	0-0
+112	119	Penn St.	Big Ten	17-15	3-8	4-1	10-6	0-0
+113	112	UC Irvine	Big West	18-12	6-9	2-0	8-3	2-0
+114	111	N.C. Central	Mid-Eastern	25-6	9-6	4-0	9-0	3-0
+115	116	Chattanooga	Southern	22-10	7-7	0-1	13-2	2-0
+115	114	Northwestern	Big Ten	15-16	3-8	1-1	11-7	0-0
+117	115	New Mexico St.	Western Athletic	21-10	6-8	0-0	13-2	2-0
+118	109	Western Mich.	Mid-American	20-13	5-9	2-2	11-2	2-0
+119	120	Evansville	Missouri Valley	19-12	6-5	2-2	10-5	1-0
+120	122	St. Bonaventure	Atlantic 10	17-12	7-6	1-0	9-6	0-0
+121	113	Washington	Pac-12	16-15	3-7	5-1	8-7	0-0
+122	124	Ga. Southern	Sun Belt	21-8	8-6	0-0	10-2	3-0
+123	123	Loyola Chicago	Missouri Valley	19-13	7-6	3-1	7-6	2-0
+124	126	Lafayette	Patriot	20-12	9-7	0-0	10-5	1-0
+125	137	Akron	Mid-American	20-13	2-9	3-1	14-3	1-0
+126	131	TCU	Big 12	18-14	2-8	3-0	13-6	0-0
+127	125	Cleveland St.	Horizon	18-14	5-11	1-0	10-3	2-0
+128	118	Oregon St.	Pac-12	17-14	2-9	0-3	14-2	1-0
+129	147	Eastern Mich.	Mid-American	21-12	4-9	1-0	12-3	4-0
+130	128	Coastal Caro.	Big South	24-9	8-7	1-0	11-2	4-0
+131	129	La.-Monroe	Sun Belt	20-11	8-6	0-2	8-3	4-0
+132	127	Texas Southern	Southwestern	20-12	10-11	1-0	9-1	0-0
+133	130	Pepperdine	West Coast	18-13	7-6	1-2	9-5	1-0
+134	132	Utah St.	Mountain West	18-12	7-7	0-0	10-5	1-0
+135	135	FGCU	Atlantic Sun	22-10	6-6	3-1	10-3	3-0
+136	134	American	Patriot	17-16	7-13	2-0	8-3	0-0
+137	136	Gardner-Webb	Big South	20-14	5-10	3-2	8-2	4-0
+138	142	Creighton	Big East	14-18	3-9	2-1	9-8	0-0
+139	139	Bucknell	Patriot	19-14	6-10	1-0	11-4	1-0
+140	138	Wake Forest	Atlantic Coast	13-19	2-10	0-2	11-7	0-0
+141	140	UNCW	Colonial	18-13	7-10	1-1	9-2	1-0
+142	141	Rider	Metro Atlantic	21-11	11-4	0-4	10-3	0-0
+143	144	James Madison	Colonial	19-13	7-5	0-1	12-7	0-0
+144	146	Montana	Big Sky	18-11	7-8	0-0	9-3	2-0
+145	145	Portland	West Coast	17-15	5-7	3-2	7-6	2-0
+146	133	Nebraska	Big Ten	13-18	1-11	2-1	10-6	0-0
+147	143	Georgia Tech	Atlantic Coast	12-19	2-9	2-2	8-8	0-0
+148	149	La.-Lafayette	Sun Belt	19-12	6-8	1-1	9-3	3-0
+149	161	Marquette	Big East	13-18	1-9	3-1	9-8	0-0
+150	150	Sacramento St.	Big Sky	19-10	6-9	0-0	11-1	2-0
+151	151	Radford	Big South	21-11	8-7	1-1	9-3	3-0
+152	152	Norfolk St.	Mid-Eastern	20-12	8-9	2-0	8-3	2-0
+153	153	San Diego	West Coast	15-16	4-8	2-4	8-4	1-0
+154	155	Eastern Ky.	OVC	19-11	8-7	0-1	9-3	2-0
+155	154	Oakland	Horizon	16-16	4-12	0-1	10-3	2-0
+156	157	Incarnate Word	Southland	18-10	7-8	0-0	7-2	4-0
+157	159	North Florida	Atlantic Sun	23-11	9-9	2-0	9-2	3-0
+158	160	NJIT	Division I Independents	18-11	6-9	0-0	8-2	4-0
+159	148	Washington St.	Pac-12	13-18	3-10	2-2	8-6	0-0
+160	158	Boston College	Atlantic Coast	13-19	2-7	2-4	9-8	0-0
+161	163	Charleston So.	Big South	19-11	6-8	0-1	10-2	3-0
+162	162	Oral Roberts	Summit	18-14	5-10	2-2	9-2	2-0
+163	168	Auburn	Southeastern	13-19	2-10	2-1	8-8	1-0
+164	164	Manhattan	Metro Atlantic	19-13	5-9	5-2	9-2	0-0
+165	166	Northwestern St.	Southland	18-11	6-8	0-0	8-3	4-0
+166	165	St. Francis Brooklyn	Northeast	23-11	9-6	1-1	12-4	1-0
+167	167	Northern Ariz.	Big Sky	18-13	6-10	1-1	10-2	1-0
+168	156	New Mexico	Mountain West	15-16	4-8	1-3	10-5	0-0
+169	169	Robert Morris	Northeast	19-14	8-8	1-0	10-6	0-0
+170	171	Saint Joseph's	Atlantic 10	13-17	3-12	0-1	10-4	0-0
+171	180	Middle Tenn.	Conference USA	17-15	4-10	1-2	11-3	1-0
+172	172	Eastern Ill.	OVC	17-14	6-8	2-2	7-4	2-0
+173	173	Hofstra	Colonial	20-13	10-6	2-1	8-6	0-0
+174	174	Hawaii	Big West	20-12	3-5	2-2	13-5	2-0
+174	178	UAB	Conference USA	16-15	3-8	0-3	12-4	1-0
+176	177	Texas-Arlington	Sun Belt	16-14	7-9	0-0	8-5	1-0
+177	170	Rutgers	Big Ten	10-22	2-10	2-2	6-10	0-0
+178	179	Monmouth	Metro Atlantic	18-15	9-7	1-1	8-7	0-0
+179	176	Lehigh	Patriot	16-14	8-7	0-1	7-6	1-0
+180	175	Texas Tech	Big 12	13-19	0-10	0-3	13-6	0-0
+181	182	UT Martin	OVC	18-12	9-8	0-1	7-3	2-0
+182	183	Saint Francis (PA)	Northeast	16-15	6-13	0-0	9-2	1-0
+183	184	Canisius	Metro Atlantic	16-14	7-7	0-1	9-6	0-0
+184	188	UMES	Mid-Eastern	18-13	11-8	0-2	7-3	0-0
+185	185	Fresno St.	Mountain West	15-16	4-10	0-3	9-3	2-0
+186	187	San Francisco	West Coast	14-18	4-7	2-3	7-8	1-0
+187	186	Northern Ill.	Mid-American	14-16	4-11	0-0	9-5	1-0
+188	191	Dartmouth	Ivy	14-14	6-10	0-0	8-4	0-0
+189	189	Mt. St. Mary's	Northeast	15-15	6-11	0-0	9-4	0-0
+190	192	Princeton	Ivy	16-14	4-9	1-2	10-3	1-0
+191	190	Indiana St.	Missouri Valley	15-16	5-7	0-3	9-6	1-0
+192	193	Bryant	Northeast	16-15	7-10	0-0	9-5	0-0
+193	181	DePaul	Big East	12-20	3-9	0-4	9-7	0-0
+194	195	Cal Poly	Big West	13-15	5-10	1-1	5-4	2-0
+195	196	East Tenn. St.	Southern	16-14	6-9	0-1	8-4	2-0
+196	194	New Hampshire	America East	19-12	7-9	0-0	10-3	2-0
+197	197	Colgate	Patriot	16-17	6-12	0-0	9-5	1-0
+198	198	Columbia	Ivy	13-15	4-8	0-0	8-7	1-0
+199	212	Southern California	Pac-12	12-19	2-9	2-2	8-8	0-0
+200	200	Boston U.	Patriot	13-17	5-10	0-1	7-6	1-0
+201	202	Holy Cross	Patriot	14-16	3-12	1-0	9-4	1-0
+202	201	Tulane	AAC	15-15	6-5	0-1	8-9	1-0
+203	204	Vermont	America East	18-13	6-9	0-0	11-4	1-0
+204	203	Morehead St.	OVC	17-17	7-9	3-2	5-6	2-0
+205	204	Santa Clara	West Coast	14-18	3-9	2-3	7-6	2-0
+206	199	Charlotte	Conference USA	14-18	5-9	2-3	7-6	0-0
+207	206	Detroit	Horizon	15-18	4-11	1-1	8-6	2-0
+208	208	Winthrop	Big South	19-13	6-10	2-0	8-3	3-0
+209	209	USC Upstate	Atlantic Sun	23-11	8-7	1-0	10-4	4-0
+210	210	Milwaukee	Horizon	14-16	3-11	1-1	8-4	2-0
+211	211	Mercer	Southern	18-15	5-9	2-3	9-3	2-0
+212	213	South Dakota	Summit	17-16	8-7	1-4	6-5	2-0
+213	215	A&M-Corpus Christi	Southland	18-12	7-8	0-0	9-4	2-0
+214	207	Mississippi St.	Southeastern	13-19	3-8	1-3	8-8	1-0
+215	218	IPFW	Summit	16-14	6-8	0-1	7-5	3-0
+216	223	FIU	Conference USA	16-16	6-11	2-1	6-4	2-0
+217	216	Missouri	Southeastern	9-23	0-10	0-5	8-8	1-0
+218	224	Duquesne	Atlantic 10	12-18	2-10	1-1	8-7	1-0
+219	219	Delaware St.	Mid-Eastern	16-16	9-11	1-0	4-5	2-0
+220	214	George Mason	Atlantic 10	9-22	2-10	0-4	6-8	1-0
+221	220	Portland St.	Big Sky	15-13	6-9	0-0	7-4	2-0
+222	221	Western Caro.	Southern	15-17	6-10	2-2	5-5	2-0
+223	225	Lamar	Southland	15-15	3-13	0-0	8-2	4-0
+224	222	Virginia Tech	Atlantic Coast	11-22	0-11	2-2	9-9	0-0
+225	217	North Texas	Conference USA	14-17	3-10	0-1	9-6	2-0
+226	227	Miami (OH)	Mid-American	13-19	3-10	0-2	9-7	1-0
+227	229	UC Riverside	Big West	14-16	2-13	0-0	10-3	2-0
+228	228	Ohio	Mid-American	10-20	1-11	1-2	8-7	0-0
+228	231	Cornell	Ivy	13-17	5-9	0-3	7-5	1-0
+230	230	Quinnipiac	Metro Atlantic	15-15	5-7	0-1	10-7	0-0
+231	232	Denver	Summit	12-18	3-10	0-1	9-7	0-0
+232	233	East Carolina	AAC	13-18	1-11	1-2	9-5	2-0
+233	226	UTSA	Conference USA	14-16	7-7	0-1	5-8	2-0
+234	235	Army	Patriot	15-15	7-8	0-0	7-7	1-0
+235	234	Saint Peter's	Metro Atlantic	16-18	7-10	2-1	7-7	0-0
+236	255	Air Force	Mountain West	14-16	1-11	2-0	9-5	2-0
+237	243	Fordham	Atlantic 10	10-20	1-11	1-1	7-8	1-0
+238	236	Northern Colo.	Big Sky	15-14	3-11	0-0	10-3	2-0
+239	237	UCF	AAC	12-17	2-9	0-0	9-8	1-0
+240	242	Howard	Mid-Eastern	16-15	7-12	0-1	6-2	3-0
+241	238	Pacific	West Coast	12-19	4-8	1-3	4-8	3-0
+242	239	Texas St.	Sun Belt	13-16	4-10	0-0	6-6	3-0
+243	246	Drexel	Colonial	11-19	5-6	1-4	5-8	0-1
+244	240	Missouri St.	Missouri Valley	11-20	2-11	0-3	7-6	2-0
+245	241	Sacred Heart	Northeast	15-17	4-12	1-0	9-5	1-0
+246	245	Hartford	America East	14-16	7-8	0-1	6-7	1-0
+247	248	Southern U.	Southwestern	16-16	7-10	0-2	6-4	3-0
+248	244	Brown	Ivy	13-18	3-11	1-1	7-6	2-0
+249	256	Rice	Conference USA	12-19	4-9	1-2	5-7	2-1
+250	247	UNC Asheville	Big South	15-16	6-10	1-0	5-6	3-0
+251	250	Houston	AAC	12-18	2-9	1-1	9-8	0-0
+252	249	Appalachian St.	Sun Belt	12-17	5-12	0-0	7-5	0-0
+253	252	Delaware	Colonial	10-20	5-11	0-1	5-8	0-0
+254	254	Alabama St.	Southwestern	19-9	8-5	2-1	7-3	2-0
+255	251	Navy	Patriot	13-19	4-10	1-1	7-8	1-0
+256	253	LIU Brooklyn	Northeast	12-18	6-9	0-2	6-7	0-0
+257	257	Weber St.	Big Sky	13-16	4-8	1-2	6-6	2-0
+258	258	Elon	Colonial	15-18	5-10	2-2	6-6	2-0
+259	260	IUPUI	Summit	10-21	5-12	0-1	5-8	0-0
+260	265	UMass Lowell	America East	12-17	6-12	0-0	5-5	1-0
+261	264	Penn	Ivy	9-19	4-10	0-0	5-9	0-0
+262	262	Northern Ky.	Atlantic Sun	13-17	4-11	0-0	7-6	2-0
+263	261	Wright St.	Horizon	11-20	6-10	0-2	3-8	2-0
+264	263	Idaho	Big Sky	13-16	2-12	0-1	9-3	2-0
+265	266	Loyola Marymount	West Coast	8-23	2-11	1-3	4-9	1-0
+266	268	Prairie View	Southwestern	14-17	7-12	0-2	6-3	1-0
+267	267	UALR	Sun Belt	13-17	3-9	1-1	8-7	1-0
+268	270	Siena	Metro Atlantic	11-20	5-10	0-0	6-10	0-0
+269	269	Drake	Missouri Valley	9-22	1-11	0-5	7-6	1-0
+270	259	Saint Louis	Atlantic 10	11-21	1-10	1-2	8-9	1-0
+271	271	Loyola Maryland	Patriot	11-19	3-13	1-0	7-6	0-0
+272	272	Lipscomb	Atlantic Sun	14-17	4-14	0-0	7-3	3-0
+273	273	South Fla.	AAC	9-22	1-12	0-1	7-9	1-0
+274	278	McNeese St.	Southland	15-15	3-10	1-0	7-5	4-0
+275	274	Grand Canyon	Western Athletic	17-14	4-7	0-0	11-7	2-0
+276	276	South Ala.	Sun Belt	11-20	4-12	0-0	5-8	2-0
+277	275	Arkansas St.	Sun Belt	11-18	6-9	0-0	4-9	1-0
+278	277	Southern Ill.	Missouri Valley	12-21	2-12	2-2	7-7	1-0
+279	280	Hampton	Mid-Eastern	13-17	5-12	2-0	6-5	0-0
+280	279	Ball St.	Mid-American	7-23	1-14	0-0	5-9	1-0
+281	281	Towson	Colonial	12-20	6-10	2-1	3-9	1-0
+282	286	Houston Baptist	Southland	12-16	2-13	0-0	6-3	4-0
+283	283	Southern Miss.	Conference USA	9-20	1-13	0-0	6-7	2-0
+284	284	VMI	Southern	11-19	4-10	1-2	4-7	2-0
+285	282	Niagara	Metro Atlantic	8-22	4-11	0-1	4-10	0-0
+286	285	CSUN	Big West	9-23	1-14	1-0	5-9	2-0
+287	287	Bradley	Missouri Valley	9-24	1-10	1-5	6-9	1-0
+288	287	Southeast Mo. St.	OVC	13-17	4-9	0-3	7-5	2-0
+289	289	Tennessee Tech	OVC	12-18	2-14	0-0	8-4	2-0
+290	290	Marshall	Conference USA	11-21	1-12	0-2	8-7	2-0
+291	291	Youngstown St.	Horizon	11-21	3-12	2-0	3-9	3-0
+292	293	Furman	Southern	11-22	1-14	3-1	5-7	2-0
+293	292	SIUE	OVC	12-16	1-12	0-1	9-3	2-0
+294	295	Wagner	Northeast	10-20	2-15	0-0	7-5	1-0
+295	294	UMKC	Western Athletic	13-18	4-13	0-1	7-4	2-0
+296	296	Ill.-Chicago	Horizon	10-24	2-12	1-3	5-9	2-0
+297	297	Col. of Charleston	Colonial	9-24	2-12	2-3	5-9	0-0
+298	298	Seattle	Western Athletic	14-14	2-9	0-0	10-5	2-0
+299	300	Omaha	Summit	12-17	5-11	0-0	6-6	1-0
+300	299	Fairfield	Metro Atlantic	7-24	2-11	1-2	4-11	0-0
+301	301	Nevada	Mountain West	9-22	2-11	0-3	5-8	2-0
+302	302	Jacksonville St.	OVC	12-19	1-16	0-0	9-3	2-0
+303	306	Ark.-Pine Bluff	Southwestern	12-20	5-13	2-3	5-4	0-0
+304	303	Utah Valley	Western Athletic	11-18	3-13	0-0	6-5	2-0
+305	307	Fla. Atlantic	Conference USA	9-20	2-13	0-0	5-7	2-0
+306	304	Samford	Southern	13-19	4-11	1-2	7-6	1-0
+307	305	Southern Utah	Big Sky	10-19	4-11	1-1	4-7	1-0
+308	308	Bakersfield	Western Athletic	13-18	3-10	1-3	6-5	3-0
+309	309	North Dakota	Big Sky	8-22	4-12	1-1	1-9	2-0
+310	310	UNC Greensboro	Southern	11-22	4-9	1-3	3-10	3-0
+311	314	Coppin St.	Mid-Eastern	8-23	3-15	1-1	3-7	1-0
+312	312	Fairleigh Dickinson	Northeast	8-21	4-12	0-0	3-9	1-0
+313	313	Troy	Sun Belt	10-19	4-10	0-0	4-9	2-0
+314	316	Cal St. Fullerton	Big West	9-22	1-14	2-0	4-8	2-0
+315	315	Presbyterian	Big South	10-22	3-11	0-3	3-8	4-0
+316	318	Jackson St.	Southwestern	11-20	5-14	0-0	6-6	0-0
+317	317	Longwood	Big South	11-23	2-14	3-2	4-7	2-0
+318	321	Kennesaw St.	Atlantic Sun	10-22	3-14	1-0	4-8	2-0
+319	321	Austin Peay	OVC	8-22	1-14	1-1	4-7	2-0
+320	311	Nicholls St.	Southland	10-19	3-12	0-1	4-6	3-0
+320	320	Marist	Metro Atlantic	7-25	2-13	2-3	3-9	0-0
+322	319	South Carolina St.	Mid-Eastern	11-22	4-14	1-3	4-5	2-0
+323	326	New Orleans	Southland	11-17	2-13	1-0	5-4	3-0
+324	323	Campbell	Big South	10-22	1-15	0-1	6-6	3-0
+325	324	Abilene Christian	Southland	10-21	1-14	2-0	4-7	3-0
+326	325	Montana St.	Big Sky	7-23	2-14	0-0	4-9	1-0
+327	327	Citadel	Southern	11-19	3-10	0-3	5-6	3-0
+328	329	Western Ill.	Summit	8-20	0-13	0-1	6-6	2-0
+329	328	Southeastern La.	Southland	9-23	3-16	0-1	5-6	1-0
+330	330	Alabama A&M	Southwestern	9-19	5-12	0-0	3-7	1-0
+331	331	Savannah St.	Mid-Eastern	9-22	2-16	0-1	5-5	2-0
+332	332	Tex.-Pan American	Western Athletic	10-20	1-15	1-1	5-4	3-0
+333	333	Binghamton	America East	6-26	1-15	0-2	4-8	1-1
+334	334	Chicago St.	Western Athletic	8-23	1-16	0-2	4-5	3-0
+335	335	San Jose St.	Mountain West	2-28	0-12	0-3	0-13	2-0
+336	336	Stetson	Atlantic Sun	9-22	1-15	1-0	4-7	3-0
+337	337	Jacksonville	Atlantic Sun	10-22	2-15	0-0	5-7	3-0
+338	338	Maine	America East	3-27	1-17	0-1	2-9	0-0
+339	339	Morgan St.	Mid-Eastern	7-24	1-17	1-2	5-5	0-0
+340	340	N.C. A&T	Mid-Eastern	9-23	2-15	0-3	5-5	2-0
+341	342	Bethune-Cookman	Mid-Eastern	11-21	4-11	1-2	4-8	2-0
+342	341	Idaho St.	Big Sky	7-23	1-14	0-2	4-7	2-0
+343	343	Central Conn. St.	Northeast	5-26	1-14	0-3	4-9	0-0
+344	344	Tennessee St.	OVC	5-26	0-17	0-1	3-8	2-0
+345	345	UMBC	America East	4-26	2-15	0-0	2-11	0-0
+346	346	Mississippi Val.	Southwestern	6-26	2-18	1-1	3-7	0-0
+347	347	Liberty	Big South	7-24	0-13	0-3	4-8	3-0
+348	348	Alcorn	Southwestern	6-26	1-15	1-4	3-6	1-1
+349	349	Central Ark.	Southland	2-27	0-16	0-0	2-11	0-0
+350	350	Florida A&M	Mid-Eastern	2-27	0-17	0-1	2-9	0-0
+351	351	Grambling	Southwestern	2-27	0-17	0-1	0-9	2-0
