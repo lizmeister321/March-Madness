@@ -14,6 +14,7 @@ Midwest=[]
 
 
 for team in all_teams:
+	all_teans.pop(-1)
 	if team[2] == 'West':
 		West=West.append(team[0])
 	elif team[2] == 'South':
