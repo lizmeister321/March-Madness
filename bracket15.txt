@@ -1,0 +1,65 @@
+Team	Seed 	Region	Wins	Losses	Total Played	Pct Won
+Kentucky	1	Midwest	34	0	34	100.00
+Hampton	16	Midwest	16	17	33	48.48
+Cincinatti	8	Midwest	22	10	32	68.75
+Purdue	9	Midwest	21	12	33	63.64
+West Virginia	5	Midwest	23	9	32	71.88
+Buffalo	12	Midwest	23	9	32	71.88
+Maryland	4	Midwest	27	6	33	81.82
+Valparaiso	13	Midwest	28	5	33	84.85
+Butler	6	Midwest	22	10	32	68.75
+Texas	11	Midwest	20	13	33	60.61
+Notre Dame	3	Midwest	29	5	34	85.29
+Northeastern	14	Midwest	23	11	34	67.65
+Wichita State	7	Midwest	28	4	32	87.50
+Indiana	10	Midwest	20	13	33	60.61
+Kansas	2	Midwest	26	8	34	76.47
+New Mexico State	15	Midwest	23	10	33	69.70
+Wisconsin	1	West	31	3	34	91.18
+Costal Carolina	16	West	24	9	33	72.73
+Oregon	8	West	25	9	34	73.53
+Oklahoma State	9	West	18	13	31	58.06
+Arkansas	5	West	26	8	34	76.47
+Wofford	12	West	28	6	34	82.35
+North Carolina	4	West	24	11	35	68.57
+Harvard	13	West	22	7	29	75.86
+Xavier	6	West	21	13	34	61.76
+Ole Miss	11	West	20	12	32	62.50
+Baylor	3	West	24	9	33	72.73
+Georgia St	14	West	24	9	33	72.73
+VCU	7	West	26	9	35	74.29
+Ohio State	10	West	23	10	33	69.70
+Arizona	2	West	31	3	34	91.18
+Texas Southern	15	West	22	12	34	64.71
+Villanova	1	East	32	2	34	94.12
+Lafayette	16	East	20	12	32	62.50
+NC State	8	East	20	13	33	60.61
+LSU	9	East	22	10	32	68.75
+Northern Iowa	5	East	30	3	33	90.91
+Wyoming	12	East	25	9	34	73.53
+Louisville	4	East	24	8	32	75.00
+UC Irvine	13	East	21	12	33	63.64
+Providence	6	East	22	11	33	66.67
+Dayton	11	East	25	8	33	75.76
+Oklahoma	3	East	22	10	32	68.75
+Albany	14	East	24	8	32	75.00
+Michigan State	7	East	23	11	34	67.65
+Georgia	10	East	21	11	32	65.63
+Virginia	2	East	29	3	32	90.63
+Belmont	15	East	22	10	32	68.75
+Duke	1	South	29	4	33	87.88
+R. Morris	16	South	19	14	33	57.58
+San Diego State	8	South	26	8	34	76.47
+St Johns	9	South	21	11	32	65.63
+Utah	5	South	24	8	32	75.00
+SF Austin	12	South	29	4	33	87.88
+Georgetown	4	South	21	10	31	67.74
+East Washington	13	South	26	8	34	76.47
+SMU	6	South	27	6	33	81.82
+UCLA	11	South	20	13	33	60.61
+Iowa State	3	South	25	8	33	75.76
+UAB	14	South	19	15	34	55.88
+Iowa	7	South	21	1	22	95.45
+Davidson	10	South	24	7	31	77.42
+Gonzaga	2	South	32	2	34	94.12
+N. Dakota State	15	South	23	9	32	71.88
