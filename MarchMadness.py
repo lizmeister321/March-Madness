@@ -6,6 +6,7 @@ with open('bracket15.txt','r') as full_bracket:
 for index, team in enumerate(all_teams):
  all_teams[index]=team.split('\t')
 
+print len(all_teams)
 
 
 West=[]
@@ -15,14 +16,19 @@ Midwest=[]
 
 
 for team in all_teams:
- all_teans.pop(1)
+ all_teams.pop(-1)
  if team[2] == 'West':
- West=West.append(team[0])
+ 	West.append(team[0])
  elif team[2] == 'South':
- South=South.append(team[0])
+ 	South.append(team[0])
  elif team[2] == 'East':
- East=East.append(team[0])
+ 	East.append(team[0])
  else:
- Midwest=Midwest.append(team[0])
+ 	Midwest.append(team[0])
 
-print length(West)
+
+print len(West)
+print len(East)
+print len(Midwest)
+print len(South)
+
