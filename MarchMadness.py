@@ -72,18 +72,28 @@ def pick_4(region):
 		output.append(region[item])
 	return output
 
-
+print "ROUND 3 PICKS"
 west_round3 = pick_8(west)
 east_round3 = pick_8(east)
 south_round3 = pick_8(south)
 midwest_round3 = pick_8(midwest)
 
 
+print "West: {0}".format(west_round3)
+print "East: {0}".format(east_round3)
+print "South: {0}".format(south_round3)
+print "Midwest: {0}".format(midwest_round3)
+
+print "SWEET 16 PICKS"
 west_sweet16 = pick_4(west_round3)
 east_sweet16 = pick_4(east_round3)
 south_sweet16 = pick_4(south_round3)
 midwest_sweet16 = pick_4(midwest_round3)
 
+print "West: {0}".format(west_sweet16)
+print "East: {0}".format(east_sweet16)
+print "South: {0}".format(south_sweet16)
+print "Midwest: {0}".format(midwest_sweet16)
 
 # west_elite = []
 # east_elite = []
