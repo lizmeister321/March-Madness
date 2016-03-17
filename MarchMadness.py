@@ -1,34 +1,90 @@
 
-with open('bracket15.txt','r') as full_bracket:
- all_teams=full_bracket.read().split('\n')
- all_teams.pop(0)
+##THE BRACKET-O-RANDO-MATIC 1600! BETTER THAN LAST YEAR'S EFFORT!##
+
+
+from random import *
+
+with open('bracket16.txt','r') as full_bracket:
+ all_teams=full_bracket.read().split('\r')
 
 for index, team in enumerate(all_teams):
  all_teams[index]=team.split('\t')
 
-print len(all_teams)
+
+headers = all_teams.pop(0)
+
+west = []
+south = []
+midwest = []
+east = []
 
 
-West=[]
-South=[]
-East=[]
-Midwest=[]
+west_sweet16 = []
+east_sweet16 = []
+south_sweet16 = []
+midwest_sweet16 = []
 
+west_elite = []
+east_elite = []
+south_elite= []
+midwest_elite = []
+
+west_finalfour = []
+east_finalfour = []
+south_finalfour = []
+midwest_finalfour = []
+
+finals = []
 
 for team in all_teams:
- all_teams.pop(-1)
- if team[2] == 'West':
- 	West.append(team[0])
- elif team[2] == 'South':
- 	South.append(team[0])
- elif team[2] == 'East':
- 	East.append(team[0])
- else:
- 	Midwest.append(team[0])
+	if team[2] == 'East':
+		east.append(team)
+	elif team[2] == 'West':
+		west.append(team)
+	elif team[2] == 'Midwest':
+		midwest.append(team)
+	else:
+		south.append(team)
 
 
-print len(West)
-print len(East)
-print len(Midwest)
-print len(South)
+# print randrange(0, 16,1)
+
+def unique_list_gen(length, max_len):
+	index_tally = 0
+	index = []
+	randomized = randrange(1,max_len,1)
+	index.append(randomized)
+	while index_tally < length-1:
+		control = 'n'
+		while control == 'n':
+			randomized = randrange(1,max_len,1)
+			if randomized not in index:
+				index.append(randomized)
+				control = 'y'
+			else:
+				pass
+		index_tally += 1
+	return index
+
+
+
+def pick_8(region):
+	output = []
+	for item in unique_list_gen(8,16):
+		for index, team in enumerate(region):
+			if int(team[1]) == item:
+				output.append(team)
+			else:
+				pass
+	return output
+				
+
+west_round3 = pick_8(west)
+east_round3 = pick_8(east)
+south_round3 = pick_8(south)
+midwest_round3 = pick_8(midwest)
+
+
+
+
 
