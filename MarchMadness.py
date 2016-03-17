@@ -19,20 +19,7 @@ midwest = []
 east = []
 
 
-west_sweet16 = []
-east_sweet16 = []
-south_sweet16 = []
-midwest_sweet16 = []
 
-west_elite = []
-east_elite = []
-south_elite= []
-midwest_elite = []
-
-west_finalfour = []
-east_finalfour = []
-south_finalfour = []
-midwest_finalfour = []
 
 finals = []
 
@@ -73,11 +60,18 @@ def pick_8(region):
 	for item in unique_list_gen(8,16):
 		for index, team in enumerate(region):
 			if int(team[1]) == item:
-				output.append(team)
+				output.append(team[0])
 			else:
 				pass
 	return output
-				
+
+
+def pick_4(region):
+	output = []
+	for item in unique_list_gen(4,8):
+		output.append(region[item])
+	return output
+
 
 west_round3 = pick_8(west)
 east_round3 = pick_8(east)
@@ -85,6 +79,21 @@ south_round3 = pick_8(south)
 midwest_round3 = pick_8(midwest)
 
 
+west_sweet16 = pick_4(west_round3)
+east_sweet16 = pick_4(east_round3)
+south_sweet16 = pick_4(south_round3)
+midwest_sweet16 = pick_4(midwest_round3)
 
 
+# west_elite = []
+# east_elite = []
+# south_elite= []
+# midwest_elite = []
+
+# west_finalfour = []
+# east_finalfour = []
+# south_finalfour = []
+# midwest_finalfour = []
+
+# print west_sweet16
 
